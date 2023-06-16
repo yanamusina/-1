@@ -1,8 +1,6 @@
 ﻿System.Console.WriteLine("Введите число: ");
 int number1 = Convert.ToInt32(Console.ReadLine());
-int result = 0;
-int vf = 0;
-if ((result=number1/2) &  (vf = result % 0))
+if (number1 % 2 == 0)
 {
     System.Console.WriteLine("да");
 } 

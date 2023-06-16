@@ -12,5 +12,7 @@ if (number1 > number2)
     System.Console.WriteLine("max:" + number1);
     System.Console.WriteLine("min" + number2);
 }
-System.Console.WriteLine("max:"+ number2);
-System.Console.WriteLine("min:" + number1);
+else {
+   System.Console.WriteLine("max:"+ number2);
+   System.Console.WriteLine("min:" + number1);
+}

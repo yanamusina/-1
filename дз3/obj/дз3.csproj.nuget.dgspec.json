@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\яно4ка\\Desktop\\с#\\дз3\\дз3.csproj": {}
+    "C:\\Users\\яно4ка\\Desktop\\c# дз\\task\\дз3\\дз3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\яно4ка\\Desktop\\с#\\дз3\\дз3.csproj": {
+    "C:\\Users\\яно4ка\\Desktop\\c# дз\\task\\дз3\\дз3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\яно4ка\\Desktop\\с#\\дз3\\дз3.csproj",
+        "projectUniqueName": "C:\\Users\\яно4ка\\Desktop\\c# дз\\task\\дз3\\дз3.csproj",
         "projectName": "дз3",
-        "projectPath": "C:\\Users\\яно4ка\\Desktop\\с#\\дз3\\дз3.csproj",
+        "projectPath": "C:\\Users\\яно4ка\\Desktop\\c# дз\\task\\дз3\\дз3.csproj",
         "packagesPath": "C:\\Users\\яно4ка\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\яно4ка\\Desktop\\с#\\дз3\\obj\\",
+        "outputPath": "C:\\Users\\яно4ка\\Desktop\\c# дз\\task\\дз3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\яно4ка\\AppData\\Roaming\\NuGet\\NuGet.Config"
