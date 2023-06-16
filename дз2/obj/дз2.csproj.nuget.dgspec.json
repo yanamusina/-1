@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\яно4ка\\Desktop\\с#\\дз2\\дз2.csproj": {}
+    "C:\\Users\\яно4ка\\Desktop\\c# дз\\task\\дз2\\дз2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\яно4ка\\Desktop\\с#\\дз2\\дз2.csproj": {
+    "C:\\Users\\яно4ка\\Desktop\\c# дз\\task\\дз2\\дз2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\яно4ка\\Desktop\\с#\\дз2\\дз2.csproj",
+        "projectUniqueName": "C:\\Users\\яно4ка\\Desktop\\c# дз\\task\\дз2\\дз2.csproj",
         "projectName": "дз2",
-        "projectPath": "C:\\Users\\яно4ка\\Desktop\\с#\\дз2\\дз2.csproj",
+        "projectPath": "C:\\Users\\яно4ка\\Desktop\\c# дз\\task\\дз2\\дз2.csproj",
         "packagesPath": "C:\\Users\\яно4ка\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\яно4ка\\Desktop\\с#\\дз2\\obj\\",
+        "outputPath": "C:\\Users\\яно4ка\\Desktop\\c# дз\\task\\дз2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\яно4ка\\AppData\\Roaming\\NuGet\\NuGet.Config"
