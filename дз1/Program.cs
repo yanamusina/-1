@@ -3,6 +3,7 @@
 //a = 2 b = 10 -> max = 10
 //a = -9 b = -3 -> max = -3
 
+
 System.Console.WriteLine("Введите число ");
 int number1 = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine("Введите число");
